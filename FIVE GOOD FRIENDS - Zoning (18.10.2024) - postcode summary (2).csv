@@ -991,8 +991,8 @@ Service Areas",F2F Signups,Local Care Management
 3218,204,Grampians,VIC,Do Not Service,RED,0,0,NO,NO,NO,NO
 3219,201,Barwon-South Western,VIC,VILLAGE,ORANGE,14,0,NO,NO,YES,NO
 3220,201,Barwon-South Western,VIC,VILLAGE,ORANGE,0,2,YES,YES,YES,NO
-3221,201,Barwon-South Western,VIC,Do Not Service,ORANGE,0,0,NO,NO,NO,NO
-3222,201,Barwon-South Western,VIC,Do Not Service,RED,0,0,NO,NO,NO,NO
+3221,201,Barwon-South Western,VIC,Do Not Service,RED,0,0,NO,NO,NO,NO
+3222,201,Barwon-South Western,VIC,Do Not Service,ORANGE,0,0,NO,NO,NO,NO
 3223,201,Barwon-South Western,VIC,Do Not Service,RED,2,0,NO,NO,NO,NO
 3224,201,Barwon-South Western,VIC,Do Not Service,RED,0,0,NO,NO,NO,NO
 3225,201,Barwon-South Western,VIC,Do Not Service,RED,0,0,NO,NO,NO,NO
@@ -2946,4 +2946,5 @@ Service Areas",F2F Signups,Local Care Management
 7470,601,North Western,TAS,Do Not Service,RED,0,0,NO,NO,NO,NO
 9998,9998,Santa,NT,Do Not Service,RED,0,0,NO,NO,NO,NO
 9999,9999,Santa,NT,COMMUNITY,GREEN,0,0,YES,YES,YES,YES
+
 
